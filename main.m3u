@@ -114,7 +114,7 @@ https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
 # ====== Private Channels ======
-EXTINF:-1 tvg-name="ProSieben" tvg-id="76762" group-title="Privat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1024px-ProSieben_Logo_2015.svg.png",ProSieben
+#EXTINF:-1 tvg-name="ProSieben" tvg-id="76762" group-title="Privat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1024px-ProSieben_Logo_2015.svg.png",ProSieben
 https://strm.hdtvizlecanli.com/live/pro7.m3u8
 #EXTINF:-1 tvg-name="RTL" tvg-id="76740" group-title="Privat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/512px-RTL_Logo_2021.svg.png",RTL
 #EXTGRP:Privat
