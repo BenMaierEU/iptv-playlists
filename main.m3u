@@ -125,6 +125,6 @@ https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTGRP:Privat
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://strm.hdtvizlecanli.com/live/kabeleins.m3u8
+https://strm.hdtvizlecanli.com/live/kabel1.m3u8
 #EXTINF:-1 tvg-name="Regio TV Schwaben" tvg-id="" group-title="Privat" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png",Regio TV Schwaben
 https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
