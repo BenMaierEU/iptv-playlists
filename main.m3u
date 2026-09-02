@@ -114,5 +114,3 @@ https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
 # ====== Private Channels ======
-#EXTINF:-1 tvg-name="Test-Stream" tvg-id="76762" group-title="Privat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1024px-ProSieben_Logo_2015.svg.png",ProSieben
-https://ireplay.tv/test/hd_blender.m3u8
